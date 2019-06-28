@@ -6,3 +6,4 @@ eureka:
 # 服务的端口号
 server:
   port: 8762
+
